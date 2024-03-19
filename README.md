@@ -25,7 +25,6 @@ To get started with the Medicine Tracker App, follow these steps:
 ### Installation
 
 1. Clone the repository:
-   ```
    git clone https://github.com/yourusername/medicine-tracker-app.git
    ```
 2. Navigate to the project directory:
