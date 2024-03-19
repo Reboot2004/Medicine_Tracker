@@ -25,15 +25,15 @@ To get started with the Medicine Tracker App, follow these steps:
 ### Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/yourusername/medicine-tracker-app.git
    ```
 2. Navigate to the project directory:
-   ```bash
+   ```
    cd medicine-tracker-app
    ```
 3. Install dependencies:
-   ```bash
+   ```
    flutter pub get
    ```
 4. Setup Firebase:
@@ -60,4 +60,8 @@ Contributions to the Medicine Tracker App are welcome! Here are a few ways you c
 
 - Report bugs and request features by creating issues.
 - Contribute to the code by forking the repository, making your changes, and creating pull requests.
+
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 ```
