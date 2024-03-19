@@ -44,7 +44,7 @@ To get started with the Medicine Tracker App, follow these steps:
 
 Run the app using the following command:
 
-```bash
+```
 flutter run
 ```
 
