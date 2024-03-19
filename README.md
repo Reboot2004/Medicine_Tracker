@@ -1,6 +1,5 @@
 Creating a README file is essential for documenting your GitHub project. It helps others understand what your project is about, how to install or configure it, how to use it, and how to contribute to it. Below is a template for a README file for your Flutter project that includes adding and managing medication schedules for users:
 
-```markdown
 # Medicine Tracker App
 
 The Medicine Tracker App is a Flutter project designed to help users manage their medication schedules effectively. This app allows users to add medications for different times of the day (morning, afternoon, evening, and night) and for weekly reminders. Users can add multiple medications per shift, each with its dosage information, enhancing the app's functionality to cater to complex medication schedules.
@@ -25,6 +24,7 @@ To get started with the Medicine Tracker App, follow these steps:
 ### Installation
 
 1. Clone the repository:
+ ```
    git clone https://github.com/yourusername/medicine-tracker-app.git
    ```
 2. Navigate to the project directory:
